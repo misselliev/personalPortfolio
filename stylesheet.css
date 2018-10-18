@@ -1,0 +1,72 @@
+#navbar{
+  font-family: 'K2D', sans-serif;
+  text-align:right;
+}
+nav a{
+  color: white;
+    #00BCA1;
+  #DC5B91;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+  margin: 25px;
+}
+#content-box{
+  display: flex;
+  flex-direction: row;
+  width:100%;
+  justify-content: center;
+}
+figure {
+  height:100%;
+  margin: 15px;
+}
+img {
+  height:50px;
+  width:50px;
+}
+.headerimage{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:50%;
+  height: 30%;
+  border-radius: 60%;
+}
+section{
+  font-family: 'Niramit', sans-serif;;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+}
+body{
+  background-image: url('http://flashwallpapers.com/wp-content/uploads/2015/09/Coffee-Bean-On-Wooden-Table.jpg');
+  repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+h1{
+  font-size: 34px;
+  font-family: 'Courgette', cursive;
+  text-shadow: 1px 1px black;
+  color: #C62F6E;
+}
+h2{
+  font-family: 'Courgette', cursive;
+  text-shadow: 1px 1px gray;
+  color: #CE3B78;
+}
+footer{
+  font-family: 'K2D', sans-serif;
+  text-align: right;
+  font-weight: bold;
+  text-shadow: 1px 1px black;
+  color: #DC5B91;
+  text-decoration: underline;
+}
+.border{
+  background-color: rgba(255, 255, 255, 0.3);
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+}
